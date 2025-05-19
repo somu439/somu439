@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somu439&label=Profile%20views&color=0e75b6&style=flat" alt="somu439" /> </p>
 
-- 🔭 I’m currently working on [USA Housing Prices](https://github.com/somu439/DSC680)
+- 🔭 I’m currently working on [Datascience projects- DSC680](https://github.com/somu439/DSC680)
 
 - 🌱 I’m currently learning **Python, Data Science, AWS**
 
